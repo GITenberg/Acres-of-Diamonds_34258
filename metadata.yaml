@@ -1,0 +1,33 @@
+_repo: Acres-of-Diamonds_34258
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34258-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: The "Acres of Diamonds" speech was reportedly delivered nearly 6,000
+  times. The central theme of the motivational message was that wealth and prosperity
+  exist everywhere, but it is up to the listener to find it. The extended metaphor
+  of a man's home above a diamond mine is carried throughout. Robert Shackleton has
+  accompanied the speech with a biography and several essays on Russell Conwell's
+  achievements.
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success'
+- !lcc 'BJ'
+title: Acres of Diamonds
+url: http://www.gutenberg.org/ebooks/34258
